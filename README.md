@@ -12,3 +12,4 @@ var ip = req.headers['x-forwarded-for'] ||
              req.socket.remoteAddress ||
              req.connection.socket.remoteAddress;
 ```
+6. [node.js store objects in redis](https://stackoverflow.com/questions/8694871/node-js-store-objects-in-redis)
