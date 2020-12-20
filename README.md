@@ -13,3 +13,4 @@ var ip = req.headers['x-forwarded-for'] ||
              req.connection.socket.remoteAddress;
 ```
 6. [node.js store objects in redis](https://stackoverflow.com/questions/8694871/node-js-store-objects-in-redis)
+7. [How to modify the nodejs request default timeout time?](https://stackoverflow.com/questions/23925284/how-to-modify-the-nodejs-request-default-timeout-time)
